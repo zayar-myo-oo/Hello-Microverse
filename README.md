@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="signature.png" alt="logo" width="140"  height="auto" />
+  <img src="signature.png" alt="logo" width="300"  height="auto" />
   <br/>
 </div>
 
@@ -15,18 +15,25 @@
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
   - [Prerequisites](#prerequisites)
+  - [Install](#install)
   - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello Microverse] <a name="about-project"></a>
+# 📖 [Hello-Microverse] <a name="about-project"></a>
 
-**[Hello Microverse]** is a git and github training project.
-
+**[Hello-Microverse]** is a git and github tranning project
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -39,7 +46,7 @@
 
 - **HTML**
 - **CSS**
-- **Linter**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -47,7 +54,8 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- Live demo is not available
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -59,18 +67,58 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need:
+In order to run this project you need: Nothing
+
+### Setup
+
+Clone this repository to your desired folder:
+
+Example commands:
 
 ```sh
- git clone git@github.com:zayarmyooo19/Hello-Microverse.git
+  cd my-folder
+  git clone https://github.com/Rimuru-Tempest-26/Portfolio.git
+```
+
+### Install
+
+Install this project with:
+
+Example command:
+
+```sh
+  cd my-project
+  npm install
 ```
 
 ### Usage
 
 To run the project, execute the following command:
 
+Example command:
+
 ```sh
   Run with live server
+```
+
+### Run tests
+
+To run tests, run the following command:
+
+Example command:
+
+```sh
+  This project has no testing command.
+```
+
+### Deployment
+
+You can deploy this project using:
+
+Example:
+
+```sh
+  You can deploy using github pages or netlify or something just like that.
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -79,10 +127,12 @@ To run the project, execute the following command:
 
 ## 👥 Author <a name="authors"></a>
 
-- GitHub: [@zayarmyooo19](https://github.com/zayarmyooo19)
-- LinkedIn: [ZayarMyoOo](https://www.linkedin.com/in/zayar-myo-oo-7402a326a/)
+👤 **Phone Khaing Hein**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+- GitHub: [@zayarmyooo19](https://github.com/zayarmyooo19)
+
+
+
 
 <!-- FUTURE FEATURES -->
 
@@ -90,7 +140,32 @@ To run the project, execute the following command:
 
 - [ ] **responsive design**
 - [ ] **demo project**
-- [ ] **personal profilo**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like my project, you can give me a star by supporting me.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thanks microverse.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -98,6 +173,6 @@ To run the project, execute the following command:
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [GNU](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
