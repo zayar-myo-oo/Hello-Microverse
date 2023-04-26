@@ -76,8 +76,8 @@ Clone this repository to your desired folder:
 Example commands:
 
 ```sh
-  cd my-folder
-  git clone https://github.com/Rimuru-Tempest-26/Portfolio.git
+  cd Hello-Microverse
+  git clone https://github.com/zayarmyooo19/Hello-Microverse.git
 ```
 
 ### Install
@@ -87,7 +87,7 @@ Install this project with:
 Example command:
 
 ```sh
-  cd my-project
+  cd Hello-Microverse
   npm install
 ```
 
@@ -173,6 +173,6 @@ I would like to thanks microverse.
 
 ## 📝 License <a name="license"></a>
 
-This project is [GNU](./LICENSE) licensed.
+This project is [MIT](./MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
